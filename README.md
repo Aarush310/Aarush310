@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-prasad-143102238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarushprasad33@gmail.com) 
 
 # 💻 Tech Stack:
