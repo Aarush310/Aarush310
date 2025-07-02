@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there 👋 I'm Aarush Prasad</h1>
+<h1 align="center"> Hi there!  I'm Aarush Prasad</h1>
 
 <!--
 **Aarush310/Aarush310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
