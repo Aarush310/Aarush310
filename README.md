@@ -3,7 +3,7 @@
 
 
 
-- 🎓 I'm a 2nd-year CS student @ TUS Athlone, specializing in **AI in Cloud Computing**.
+### - 🎓 I'm a 2nd-year CS student @ TUS Athlone, specializing in **AI in Cloud Computing**.
 <!--
 **Aarush310/Aarush310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
